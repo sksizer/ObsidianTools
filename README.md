@@ -1,1 +1,1 @@
-# ObsidianTools
+# Obsidian Tools
